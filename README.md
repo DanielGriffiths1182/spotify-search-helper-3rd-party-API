@@ -1,4 +1,4 @@
-Homework-
+Homework- Soon to be updated with nokogiri integration
 
 Using HTTParty, and accessing Spotify's API as a 3rd party this search helper enables you to find any and all relevant information about an artist or album.
 
